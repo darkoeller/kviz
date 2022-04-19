@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="style_txt_pitanje">
+        <item name="android:fontFamily">@font/paprika</item>
+        <item name="android:padding">@dimen/txt_pitanje_padding</item>
+        <item name="android:textAlignment">textStart</item>
+        <item name="android:textColor">#226474</item>
+    </style>
+
+    <style name="btn_style" parent="style_txt_pitanje">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">168dp</item>
+        <item name="android:backgroundTint">#4EAABF</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">#F2F2F2</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

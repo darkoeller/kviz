@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kviz</string>
+    <string name="robot_descript">slika robota</string>
+    <string name="btn_txt_prev">Pret</string>
+    <string name="btn_text_next">Slij</string>
+    <string name="btn_txt_true">Točno</string>
+    <string name="btn_txt_false">Netočno</string>
+    <string name="tocan_odgovor">Točan odgovor!</string>
+    <string name="netocan_odgovor">Netočan odgovor!</string>
+    <string name="pitanje_br1">Unutar konstruktora ili metode riječ <u><b>this</b></u> upućuje na objekt u kojem se nalazi?</string>
+    <string name="pitanje_br2">Garbage Collection je proces koji pokrećemo ručno?</string>
+    <string name="pitanje_br3">Modulus operator (%) u Javi može se koristiti samo sa varijablama tipa int?</string>
+    <string name="pitanje_br4">Operator = zadaje vrijednost sa lijeva na desno?</string>
+    <string name="pitanje_br5">Svi binarni operatori osim = se zadaju sa lijeva na desno?</string>
+    <string name="pitanje_br6">Java runtime briše objekte kada se oni više ne koriste i taj proces se zove Garbage Collection?</string>
+    <string name="pitanje_br8">Java nije statični tip odnosno sve varijable se ne moraju zadati prije korištenja?</string>
+    <string name="pitanje_br9">Interfejs ne može imati varijablu?</string>
+    <string name="pitanje_br10">Public i static mogu biti pisani bilo kojim redom public static ili static public?</string>
+    <string name="pitanje_br7">Nije moguće imati više konstruktora u javi?</string>
+</resources>

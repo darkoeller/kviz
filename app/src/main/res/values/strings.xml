@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="robot_descript">picture of robot</string>
+    <string name="btn_txt_prev">Prev</string>
+    <string name="btn_text_next">Next</string>
+    <string name="btn_txt_true">True</string>
+    <string name="btn_txt_false">False</string>
+
+    <string name="tocan_odgovor">That is true!</string>
+    <string name="netocan_odgovor">That is not true!</string>
+    <string name="pitanje_br1">In an instance method or a constructor,<u><b>"this"</b></u> is a reference to the current object?</string>
+    <string name="pitanje_br2">Garbage Collection is manual process?</string>
+    <string name="pitanje_br3">The modulus operator (%) in Java can be used only with variables of integer type?</string>
+    <string name="pitanje_br4">Assignment operator is evaluated Left to Right?</string>
+    <string name="pitanje_br5">All binary operators except for the assignment operators are evaluated from Left to Right?</string>
+    <string name="pitanje_br6">The JRE deletes objects when it determines that they are no longer being used. This process is called Garbage Collection?</string>
+    <string name="pitanje_br7">Constructor overloading is not possible in Java?</string>
+    <string name="pitanje_br8">Java programming is not statically-typed, means all variables should not first be declared before they can be used?</string>
+    <string name="pitanje_br9">Interfaces can be instantiated?</string>
+    <string name="pitanje_br10">The modifiers public and static cannot written in either order "public static" or "static public"</string>
+</resources>
